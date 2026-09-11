@@ -1,0 +1,1 @@
+A web-based House Rental Management System developed to simplify property and rental management. The system helps manage properties, houses, tenants, and rental information in an organized digital platform.
